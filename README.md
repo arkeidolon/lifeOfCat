@@ -23,7 +23,7 @@ cat.throwIt('glass');  `//Hmm meow! (Zhehehe, I fucking throw it...)`
 <br>
 
 
-# Push requests
+# Pull Requests
 ```
 git push origin (what-i-did)
 ```
